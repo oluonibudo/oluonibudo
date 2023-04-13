@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olu! <br/><a href="https://www.linkedin.com/in/onibudo/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Olu! <a href="https://www.linkedin.com/in/onibudo/">A Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
